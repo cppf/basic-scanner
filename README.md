@@ -1,7 +1,7 @@
 `e**.bas` are example input programs to scanner.
 use `./scanner <input file>` to run scanner.
 
-```
-Subhajit Sahu
-2018801013
-```
+**Course**: [Compilers], Monsoon 2019<br>
+**Taught by**: Prof. Suresh Purini
+
+[Compilers]: https://github.com/iiithf/compilers
